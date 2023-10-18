@@ -1,5 +1,5 @@
 # Dicoding-Submission-Android-Valorant-Agen
-Submission Aplikasi Dicoding membuat aplikasi sederhana
+Submission Aplikasi Dicoding membuat aplikasi sederhana https://www.dicoding.com/academies/51
 
 ## Desciription
 So recently I've been playing Valorant, game from Riot games and i have a lot of fun with it. Cause i'm trying to renew my certification for Basic Android Programming, why dont i make some app that contain valorant game in it? This app is simple, and i'm trying to keep it that way. This app will be able to show local data into Recycler View, and when we click on one of the item we will be able to see more detail of the content, in the detailed content will display biographical agent information and the agent's role.
