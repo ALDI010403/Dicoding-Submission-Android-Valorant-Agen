@@ -43,4 +43,4 @@ So recently I've been playing Valorant, game from Riot games and i have a lot of
      style="float: left; margin-right: 10px;"
      width="200" />
 ## Cloning this Repository For Refrensi !!!
-Use this repository only for reference, do not copy paste <br> tes
+Use this repository only for reference, do not copy paste <br> https://github.com/ALDI010403/Dicoding-Submission-Android-Valorant-Agen.git
